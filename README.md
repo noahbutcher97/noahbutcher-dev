@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository showcases my game development projects 
 ## 📂 Repository Structure
 
 This repository is organized into the following sections:
-
+```markdown
 noahbutcher-dev/
 ├── Projects/                 # Contains all game development projects
 │   ├── UnrealProjects/       # Unreal Engine projects
@@ -16,6 +16,7 @@ noahbutcher-dev/
 ├── index.html                # Main HTML file for the portfolio website
 ├── styles.css                # CSS file for website styling
 └── README.md                 # This file
+```
 ---
 ## 🛠️ Tools & Technologies
 
