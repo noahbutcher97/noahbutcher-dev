@@ -3,12 +3,15 @@
 Welcome to my portfolio! This repository showcases my game development projects and expertise as a **Gameplay Systems Designer**. I specialize in creating engaging game mechanics and systems using **Unreal Engine** and **Unity**, with proficiency in tools like **Blueprint**, **C++**, and **C#**.
 
 ---
+
 ```markdown
+
 ## 📂 Repository Structure
 
 This repository is organized into the following sections:
 
-```
+```plaintext
+
 noahbutcher-dev/
 ├── Projects/                 # Contains all game development projects
 │   ├── UnrealProjects/       # Unreal Engine projects
