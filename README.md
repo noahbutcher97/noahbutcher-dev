@@ -5,7 +5,6 @@ Welcome to my portfolio! This repository showcases my game development projects 
 ---
 
 ```markdown
-
 ## 📂 Repository Structure
 
 This repository is organized into the following sections:
